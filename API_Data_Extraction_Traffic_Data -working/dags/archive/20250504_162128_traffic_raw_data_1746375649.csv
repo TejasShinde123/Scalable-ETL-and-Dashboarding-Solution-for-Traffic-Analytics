@@ -1,0 +1,11 @@
+timestamp,region,vehicle_type,count,road_name
+2025-05-04T16:20:39.076811,North,Bus,318,Highway 1
+2025-05-04T16:20:39.076866,West,Car,174,Ring Road
+2025-05-04T16:20:39.076914,North,Car,217,Ring Road
+2025-05-04T16:20:39.076934,North,Bus,147,Ring Road
+2025-05-04T16:20:39.076954,South,Truck,71,Ring Road
+2025-05-04T16:20:39.076975,North,Bus,371,Highway 1
+2025-05-04T16:20:39.076996,South,Bus,307,Ring Road
+2025-05-04T16:20:39.077018,East,Bike,327,Highway 1
+2025-05-04T16:20:39.077037,East,Truck,417,Highway 1
+2025-05-04T16:20:39.077057,South,Bus,216,Highway 1
